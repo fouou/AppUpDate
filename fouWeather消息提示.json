@@ -1,6 +1,6 @@
 {
-"status":1,"
- msg":"显示",
+"status":1,
+ "msg":"显示",
  "result":{
      "name":"消息提示",
      "versioncode":2,
