@@ -3,7 +3,7 @@
 "msg":"显示",
  "result":{
      "name":"官网更新",
-     "versioncode":2,
+     "versioncode":3,
      "versionname":"1.2",
      "title":"fouWeather has a new version!",
      "content":"去除了App内所有广告,更新了由语言适配引起的开屏闪退等问题",
