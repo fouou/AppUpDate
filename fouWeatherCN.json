@@ -3,7 +3,7 @@
 "msg":"显示",
  "result":{
      "name":"官网更新",
-     "versioncode":3,
+     "versioncode":2,
      "versionname":"1.2",
      "title":"天气有新版本啦！",
      "content":"去除了App内所有广告,更新了由语言适配引起的开屏闪退等问题",
